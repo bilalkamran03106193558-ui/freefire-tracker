@@ -1,0 +1,2 @@
+# freefire-tracker
+freefire-tracker
